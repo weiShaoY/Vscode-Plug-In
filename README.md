@@ -68,7 +68,7 @@ Jsconfig.json
 自动完成另一侧标签的同步修改
 ```
 
- Vscode内置方案    <img src="../img/1668717715929.jpg" style="zoom: 67%;" />
+ Vscode内置方案    <img src="./img/1668717715929.jpg" style="zoom: 67%;" />
 
 ​								点击设置，搜索Link，把这个勾选上，就可以左右重命名标签了
 
@@ -137,7 +137,7 @@ Class Tree 基于 Ast 分析提取Class 快速提取Class 输出对应结构
 `颜色 `
 
 扩展样式可以在您的文档中找到 Css/web 颜色
-<img src="C:\Users\16047\Desktop\Vscode插件-全网最全\img\3daeba1480b29c602d5c915b10896b71d91c9a4c045d4a2fc2217364e3701d2c.png" style="zoom:50%;" />
+<img src="./img/3daeba1480b29c602d5c915b10896b71d91c9a4c045d4a2fc2217364e3701d2c.png" style="zoom:50%;" />
 
 ## css-class-intellisense
 ` 提示` ` Html`
@@ -295,34 +295,38 @@ Markdown 预览 Vs 代码高亮
 使得预览的颜色更好地匹配您在 Vs Code 文本编辑器中看到的颜色
 
 
-##
-` `
+## Node-snippets
+` 代码片段`
+
+为您提供一些很棒的 Nodejs 片段
+
+
+## Npm Intellisense
+`Npm `
+
+在 Import 语句中自动完成 Npm 模块的 Visual Studio Code 插件
+
+可以帮助我们智能感知要导入的模块
+
+
+## Npm-import-package-version
+` Npm`
+
+在代码中显示 Npm 包版本的扩展
+
+
+
+## open in browser
+`调试 `
+
+在浏览器打开当前文件
 
 ```
-
+快捷键
+      在默认浏览器中打开  Alt + B
+      在指定浏览器中打开  Shift + Alt + B
 ```
-
-##
-` `
-
-```
-
-```
-
-##
-` `
-
-```
-
-```
-
-##
-` `
-
-```
-
-```
-##
+## Package.json Helper
 ` `
 
 ```
